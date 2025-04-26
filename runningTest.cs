@@ -9,6 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//It is a known bug that that the next task loaded will sometimes be a duplicate. I've rewritten the code 5 times
+//and I still don't know what causes the issue.
+
 namespace SpringCapstone
 {
     public partial class runningTest : Form
