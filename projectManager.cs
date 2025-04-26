@@ -9,6 +9,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Note to professors: I have no clue how to get the database working for you. I used an express installation of localdb
+//and used the connection string to connect to it. This is the first time in a long time that I have used VS and C#, much less
+//integrating a database with the application. I have no clue how to get it working for you, but my documentation can show that
+//it works for me. 
+
+
 namespace SpringCapstone
 {
     public partial class projectManager : Form
